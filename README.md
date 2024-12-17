@@ -39,7 +39,9 @@ Imagery:
 
 Code problems throughout:
 
-
+* Struggled connecting my code to GitHub, every time I pushed a commit, it failed with the same error - I fixed this by changing the branch in GitHub Pages through the settings. By updating this to the correct folder, I was then able to push through my commits without fail.
+* I couldn't open each page through the internal or external browser, I used "pages/page_2.html" etc, and I changed this to "page_2.html" etc in order for this to work when switching pages within the website.
+* My CSS wasn't connected to the website and so the styling was not on any page. I used "styles/global.css" I updated this to "../styles/global.css" in order for this to connect to every page.
 
 Testing throughout:
 
