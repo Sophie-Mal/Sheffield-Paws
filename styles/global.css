@@ -1,6 +1,180 @@
-background {
-    background-color: azure;
+body {
+    background-color: #CFD8DC;
     margin: 0;
-    font-family:
-        text-align:
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    text-align: center;
+}
+
+
+.text {
+    text-align: left;
+}
+
+
+img {
+    max-height: 20em;
+    max-width: 100%;
+}
+
+
+footer {
+    padding: 10px;
+    font-size: 15px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    font-size: 15px;
+}
+
+footer:hover {
+    font-size: 16px;
+}
+
+
+.button1 {
+    color: #455A64;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button1:hover {
+    color: #9E9E9E;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.button2 {
+    background-color: #1B8195;
+    border: none;
+    border-radius: 8px;
+    color: #455A64;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button2:hover {
+    background-color: #9E9E9E;
+}
+
+
+
+
+
+.navbar {
+    width: 100%;
+    background-color: #607D8B;
+    color: white;
+    z-index: 1000;
+}
+
+/* Only large screens should have a navbar that follows you */
+@media (min-width: 600px) {
+    .navbar {
+        position: fixed;
+        top: 0;
+    }
+
+    .container {
+        /* We need these: top margin to compensate for fixed navbar (otherwise the container moves behind it). Side margin so the content doesn't hug the sides. */
+        margin: 80px 20px;
+    }
+}
+
+.container {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.navbar ul li {
+    display: inline;
+}
+
+.navbar ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 9px 11px;
+    text-decoration: none;
+}
+
+.navbar ul li a:hover {
+    background-color: #BDBDBD;
+}
+
+.content {
+    padding-top: 60px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+
+p {
+    text-align: center;
+}
+
+ol,
+p {
+    font-size: 1em;
+}
+
+/* For bigger screens */
+@media (min-width: 2000px) {
+
+    p,
+    ol {
+        font-size: 1.5em !important;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    p,
+    ol {
+        /* This makes the text group in the centre a bit more rather than off to the sides. */
+        margin: 2% 20%;
+    }
+}
+
+
+
+.title {
+    color: #607D8B;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.title:hover {
+    color: #9E9E9E;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+.title a {
+    color: #607D8B;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.title a:hover {
+    color: #9E9E9E;
+    text-decoration: underline;
+    font-weight: bold;
 }
