@@ -31,7 +31,7 @@ What:
 
 Color Scheme:
 
-
+I have chosen a grey coloured theme. Using a contrast of lighter and darker shades
 
 Imagery:
 
@@ -42,6 +42,8 @@ Code problems throughout:
 * Struggled connecting my code to GitHub, every time I pushed a commit, it failed with the same error - I fixed this by changing the branch in GitHub Pages through the settings. By updating this to the correct folder, I was then able to push through my commits without fail.
 * I couldn't open each page through the internal or external browser, I used "pages/page_2.html" etc, and I changed this to "page_2.html" etc in order for this to work when switching pages within the website.
 * My CSS wasn't connected to the website and so the styling was not on any page. I used "styles/global.css" I updated this to "../styles/global.css" in order for this to connect to every page.
+* Links to each page were not working as they should. I updated the HTML from "../pages/page-2.html" to "pages/page-2.html". I did this for every page link.
+* Link to CSS was not working on every page. I updated the HTML from "..styles/global.css" to "styles/global.css". I did this on every page but this didn't work for any page except the Home page (index.html). 
 
 Testing throughout:
 
@@ -49,7 +51,7 @@ Testing throughout:
 
 Device testing throughout:
 
-
+* While building my website I used a Macbook Air to build and test my website, using Google Chrome to host the website and ensure everything works as it should.
 
 Resources and Acknowledgements:
 
@@ -57,6 +59,7 @@ Resources and Acknowledgements:
 
 Design:
 
+* Navbar stationary at the top of each page, allowing for easy nevigation throughout the entire website.
 
 
 Key Design Elements:
@@ -77,7 +80,8 @@ Future Layout Structure:
 
 Website Building:
 
-
+* I started with building the baseline of HTML and CSS. I created the amount of pages I wanted to include within the website, then added titles, a navbar, and a baseline for the information being held on each page.
+* Once this was complete I moved on to adding the base information for each place I would be showcasing within this website. I found 3 placed for each page (Vets, Pet stores, Grooming, Walking & Training) and added the link to their websites, a rough location, contact information, open & close hours and a rough description of what each place offers.
 
 Validator Scores:
 
