@@ -132,6 +132,10 @@ p {
     text-align: center;
 }
 
+ol {
+    text-align: center;
+}
+
 ol,
 p {
     font-size: 1em;
@@ -144,7 +148,6 @@ p {
     p,
     ol {
         font-size: 1.5em !important;
-        text-align: center;
     }
 }
 
@@ -154,7 +157,6 @@ p {
     ol {
         /* This makes the text group in the centre a bit more rather than off to the sides. */
         margin: 2% 20%;
-        text-align: center;
     }
 }
 
