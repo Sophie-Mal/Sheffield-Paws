@@ -37,13 +37,17 @@ Imagery:
 
 
 
-Code problems throughout:
+Fixed code problems:
 
 * Struggled connecting my code to GitHub, every time I pushed a commit, it failed with the same error - I fixed this by changing the branch in GitHub Pages through the settings. By updating this to the correct folder, I was then able to push through my commits without fail.
 * I couldn't open each page through the internal or external browser, I used "pages/page_2.html" etc, and I changed this to "page_2.html" etc in order for this to work when switching pages within the website.
 * My CSS wasn't connected to the website and so the styling was not on any page. I used "styles/global.css" I updated this to "../styles/global.css" in order for this to connect to every page.
 * Links to each page were not working as they should. I updated the HTML from "../pages/page-2.html" to "pages/page-2.html". I did this for every page link.
 * Link to CSS was not working on every page. I updated the HTML from "..styles/global.css" to "styles/global.css". I did this on every page but this didn't work for any page except the Home page (index.html). 
+
+Ongoing code problems:
+
+
 
 Testing throughout:
 
