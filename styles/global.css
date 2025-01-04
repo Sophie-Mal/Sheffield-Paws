@@ -10,6 +10,9 @@ body {
     text-align: center;
 }
 
+h4 {
+    text-align: center;
+}
 
 img {
     max-height: 20em;
@@ -132,6 +135,7 @@ p {
 ol,
 p {
     font-size: 1em;
+    text-align: center;
 }
 
 /* For bigger screens */
