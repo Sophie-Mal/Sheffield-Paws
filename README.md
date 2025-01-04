@@ -102,7 +102,8 @@ CSS Validator:
 
 Acknowledgements:
 
-
+* Pexels - Free images
+* TinyPNG - Free site to create smaller images
 
 Testing User Stories:
 
