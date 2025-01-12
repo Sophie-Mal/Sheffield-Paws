@@ -1,6 +1,6 @@
 # Sheffield-Paws
 
-View the live website <a href="https://sophie-mal.github.io/Sheffield-Paws/" target="_blank">here</a>!
+View the live website [here](https://sophie-mal.github.io/Sheffield-Paws/)!
 
 Welcome to Sheffield Paws: Your Local Guide to Dog Grooming, Vets, Pet Stores & Walks.
 
