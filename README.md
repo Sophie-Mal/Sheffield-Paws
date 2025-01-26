@@ -33,11 +33,13 @@ What:
 
 Color Scheme:
 
-I have chosen a grey coloured theme. Using a contrast of lighter and darker shades
+I have chosen a grey coloured theme. Using a contrast of lighter and darker shades to help keep the webiste easy to read while still having some colour within that can show 
 
 Imagery:
 
-
+* The image I have chosen for the home page symbolises that Sheffield Paws is focused on Dogs and Dog owners.
+* The images I have chosen for each individual place within the website show what they do, such as vets that help with your pets health & pet stores which help with food, or other items you need for your pets.
+* I like to use images with each bit of information as I believe it is good to also have a visual when being provided with a lot of information.
 
 Fixed code problems:
 
