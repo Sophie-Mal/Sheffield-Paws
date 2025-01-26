@@ -8,7 +8,7 @@ Welcome to Sheffield Paws: Your Local Guide to Dog Grooming, Vets, Pet Stores & 
 
 Overview:
 
-"Sheffield Paws" is a guide to those local to or visitng Sheffield. Here you will find any vet, grooming store, pet store, or even someone to walk your fury friend! Whether you have had a dog before or this is your first pet, this guide will help you find everything you need to prepare and look after your beloved dog.
+"Sheffield Paws" is a guide to those local to or visitng Sheffield. Here you will find any vet, grooming store, pet store, or even someone to walk or help train your fury friend! Whether you have had a dog before or this is your first pet, this guide will help you find everything you need to prepare and look after your beloved dog.
 
 User targeted:
 
